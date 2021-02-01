@@ -32,6 +32,7 @@
       "chatbot-facebook-receive": "./nodes/chatbot-facebook-receive.js",
       "chatbot-viber-receive": "./nodes/chatbot-viber-receive.js",
       "chatbot-alexa-receive": "./nodes/chatbot-alexa-receive.js",
+      "chatbot-dialogflow-receive": "./nodes/chatbot-dialogflow-receive.js",
       "chatbot-message": "./nodes/chatbot-message.js",
       "chatbot-analytics": "./nodes/chatbot-analytics.js",
       "chatbot-context": "./nodes/chatbot-context.js",
